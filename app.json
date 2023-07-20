@@ -1,0 +1,13 @@
+{
+  "name": "doantotnghiep",
+  "plugins": [
+    [
+      "react-native-fbsdk-next",
+      {
+        "appID": "601399201957713",
+        "clientToken": "c55998745be937ad15bb5964a2f71d6c",
+        "displayName": "doantotnghiep"
+      }
+    ]
+  ]
+}
